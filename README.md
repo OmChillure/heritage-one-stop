@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Contributions
 
-![Alt](https://repobeats.axiom.co/api/embed/d6b93b65a599c360095b83db47efde0f67e08f37.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/4c78be6496b53296b3f0862b73b078c478e0d9bd.svg "Repobeats analytics image")
